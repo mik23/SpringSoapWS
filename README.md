@@ -1,6 +1,6 @@
 ## What
 
-Just few Java 8 projects.
+Just an inbound Spring Soap WS.
 
 ## Why
 
